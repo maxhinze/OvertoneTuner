@@ -1,0 +1,8 @@
+﻿  cMain.cpp
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cAudioRecorder.h(37): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(22): warning C4005: "M_PI": Makro-Neudefinition
+  D:\dev\wxWidgets-3.1.3\include\wx\math.h(21): note: Siehe vorherige Definition von "M_PI"
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cMain.cpp(29): warning C4305: "Argument": Verkürzung von "double" in "float"
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cMain.cpp(413): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cMain.cpp(444): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  OvertoneTuner.vcxproj -> D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\Debug\OvertoneTuner.exe

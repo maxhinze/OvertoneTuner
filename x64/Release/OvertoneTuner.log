@@ -1,0 +1,40 @@
+﻿  cApp.cpp
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cApp.h(3): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "wx/wx.h": No such file or directory
+  cAudioRecorder.cpp
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cAudioRecorder.h(3): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "wx/wx.h": No such file or directory
+  cDlgInputDevice.cpp
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cDlgInputDevice.h(3): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "wx/wx.h": No such file or directory
+  cGraph.cpp
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cGraph.h(3): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "wx/wx.h": No such file or directory
+  cMain.cpp
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cMain.h(3): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "wx/wx.h": No such file or directory
+  cMusicScale.cpp
+  cMyFFT.cpp
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cMyFFT.cpp(23): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cMyFFT.cpp(23): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "const unsigned int", Datenverlust möglich
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cMyFFT.cpp(47): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cMyFFT.cpp(56): warning C4244: "Argument": Konvertierung von "double" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cMyFFT.cpp(60): warning C4244: "Argument": Konvertierung von "double" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cMyFFT.cpp(76): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cMyFFT.cpp(88): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  cPeakDetection.cpp
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cPeakDetection.cpp(105): warning C4805: "==": unsichere Kombination von Typ "_Ty" mit Typ "bool" in einer Operation
+          with
+          [
+              _Ty=char
+          ]
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cPeakDetection.cpp(113): warning C4805: "==": unsichere Kombination von Typ "_Ty" mit Typ "bool" in einer Operation
+          with
+          [
+              _Ty=char
+          ]
+  cPlot.cpp
+D:\OneDrive\Visual Studio\wxWidgets\OvertoneTuner\OvertoneTuner\cPlot.h(3): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "wx/wx.h": No such file or directory
